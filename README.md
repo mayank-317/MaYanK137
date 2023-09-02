@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaYanK137
+- 👋 Hi, I’m @Mayank317
 - 👀 I’m interested in Web development and software development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning MERN Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my eamil mayankwarkade317@gmail.com
 
