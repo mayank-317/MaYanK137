@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayank Warkade
-- 👀 I’m interested in Web development and software development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning MERN Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my eamil mayankwarkade317@gmail.com
